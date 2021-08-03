@@ -1,0 +1,31 @@
+EDWARD JI KNOX GRAMMAR SCHOOL GROK CHAMPIONSHIP
+
+BELOW RECORDED THE CONCENTRATION OR NEW FEATURE IN ALGORITHMS FOR EACH SUBMISSION
+REFER TO THIS DOCUMENT TO WITHDRAW SUBMISSIONS AND TEST VARIANTS
+
+#000 failed submission
+#001 aggressive when other player has only one card left
+#002 progressively aggressive according to the minimum hand size
+#003 play the lowest card possible
+#004 failed submission - aiming for #005
+#005 reserve card if card value is high and others have more cards
+    reservation variant set to 85
+#006 reserve card if card value is high and others have more cards
+    reservation variant set to 90
+    withdrawn due to suspicion of internal strife
+#007 reserve card if card value is high and others have more cards
+    reservation variant set to 80
+    withdrawn due to suspicion of internal strife
+#008 reserve card if card value is high and others have more cards
+    reservation variant set to 95
+    withdrawn due to low scoring
+#009 wait until I have the highest card that has not been used
+    withdrawn due to constant errors result from pass actions by other players
+#010 wait until I have the highest card that has not been used
+    withdrawn due to constant errors result from pass actions by other players
+#011 wait until I have the highest card that has not been used
+    withdrawn due to poor performance
+#012 reserve card if card value is high and others have more cards
+    reservation variant set to 95
+#025 charge
+#026 balance

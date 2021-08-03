@@ -1,0 +1,9 @@
+#001 reserve card strategy
+    withdrawn due to poor performance, trick not reorganised
+#002 reserve card strategy
+#003 without reserve strategy
+#004 organise card to trick with highest number of cards before choosing the best trick
+    if no trick available, then disassemble combo
+    withdrawn due to error result from no clearing before regenerating strategy
+#005 organise card to trick with highest number of cards before choosing the best trick
+    withdrawn due to error result from general start of trick not handled
